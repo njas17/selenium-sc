@@ -6,9 +6,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-/SeleniumSitecoreTest.sln
-/App.config
-/packages.config
+/SeleniumSitecoreTest/*.config
+.gitattributes
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
